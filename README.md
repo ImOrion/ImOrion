@@ -3,7 +3,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=imorion" alt="imorion" /></a> </p>
 
-- 👨‍💻 All of my projects are available at [[xd](https://github.com/ImOrion?tab=repositories)]([https://www.youtube.com/channel/UCBLUzVWDhZRPEPeHkF6-Ywg](https://github.com/ImOrion?tab=repositories))
+- 👨‍💻 All of my projects are available at [PORTAFOLIO](https://github.com/ImOrion?tab=repositories)
 
 - 📫 How to reach me **mateou771@gmail.com**
 
