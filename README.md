@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Mateo U.</h1>
 <h3 align="center">A Full Stack Developer from Colombia :)</h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=imorion" alt="imorion" /></a> </p>
+<p align="left"> <a target="_blank" href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=imorion" alt="imorion" /></a> </p>
 <p>Since I was little I had a notable interest in technology, now that I am more aware of what I do, I am passionate about knowing that I obtain more knowledge and experience.
   
 Hello, I'm Mateo, a full stack Web developer from Colombia, I'm happy to be able to show you my learning obtained throughout my days, I have many things to share with you, here below you can see my personal and group projects, stay up to date, and thanks for giving you the opportunity to meet me, see you soon!
